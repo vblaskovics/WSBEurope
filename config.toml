@@ -1,3 +1,4 @@
+baseurl = "https://vblaskovics.github.io/WSBEurope/"
 languageCode = "en-us"
 title = "Water Skyball in Europe 2021"
 theme = "ananke"
