@@ -3,3 +3,4 @@ languageCode = "en-us"
 title = "Water Skyball in Europe"
 theme = "ananke"
 publishDir = "docs"
+relativeURLs = true
