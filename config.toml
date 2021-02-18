@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Water Skyball in Europe"
+title = "Water Skyball in Europe 2021"
 theme = "ananke"
 publishDir = "docs"
 relativeURLs = true
